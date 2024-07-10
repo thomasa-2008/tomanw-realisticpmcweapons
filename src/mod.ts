@@ -27,12 +27,14 @@ class M4A1_PMC implements IPostDBLoadMod
         };
         tables.bots.types["usec"].inventory.equipment.FirstPrimaryWeapon = {"5447a9cd4bdc2dbd208b4567": 5, // M4A1
             "5bb2475ed4351e00853264e3": 4, // HK-416
+            "5df8ce05b11454561e39243b": 5, // SR-25
+            "5d43021ca4b9362eab4b5e25": 4, // TX-15
             "6184055050224f204c1da540": 2, // Scar-L
             "5fbcc1d9016cce60e8341ab3": 1, // MCX .300
             "65290f395ae2ae97b80fdf2d": 1, // MCX Spear
             "6259b864ebedf17603599e88": 3, // m3 shotgun
             "5bd70322209c4d00d7167b8f": 4, // MP7A2
-            "5bcf0213d4351e0085327c17": 4, // MP7A1
+            "5ba26383d4351e00334c93d9": 4, // MP7A1
             "627e14b21713922ded6f2c15": 1 // AXMC
             /* add more if you want */
         };
